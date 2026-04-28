@@ -9,7 +9,7 @@ function saudacao(nome) {
 
     }
 
-    return `Ola¡, ${nome}! Bem-vindo ao nosso sistema CI/CD!`;
+    return `Ola, ${nome}! Bem-vindo ao nosso sistema CI/CD!`;
 
 }
 
